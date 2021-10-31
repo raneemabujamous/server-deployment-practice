@@ -19,9 +19,11 @@ PORT - 3000
 ## For Applications:
 
 How do I run the app?
-npm run dev
+npm run dev</br>
+
 How do I set up the app?
-from the package.json
+from the package.json</br>
+
 [pull request](https://github.com/raneemabujamous/server-deployment-practice/tree/dev)
 
 ### sumrization
